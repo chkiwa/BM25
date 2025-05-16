@@ -1,8 +1,8 @@
 .ipynb_checkpoints/
-.i
+.ipynb_checkpoints
 .temp
 .tmp
-.cv_test/
+.cv_test
 .cv_test/
 .env
 .venv
